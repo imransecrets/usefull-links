@@ -11,3 +11,6 @@ https://www.youtube.com/watch?v=9UjgFaiLPoY
 # DATABASE
 ## DATABASE connectivity diagram maker 
 https://dbdiagram.io/d/65fdf824ae072629cebf3063
+
+# latest books and videos on hard drive
+D:\CODING TUTORIAL\00latest
